@@ -3,7 +3,7 @@
 ## NLAH
 This is a PyTorch implementation of the NLAH model for learning node embedding in heterogeneous information networks.
 
-We provide a sample ACM dataset in "data" folder. It includes three types of non-local features: 2nd Order Proximity (2ncprox), Personalized PageRank (ppr) and Positive Pointwise Mutual Information (ppmi).
+We provide a sample ACM dataset in "data" folder. It includes three types of non-local features: 2nd Order Proximity (2ndprox), Personalized PageRank (ppr) and Positive Pointwise Mutual Information (ppmi).
 
 To start training on the provided ACM dataset, you need to create a folder named "/model/acm/{non-local features}" to store the trained model.
 
