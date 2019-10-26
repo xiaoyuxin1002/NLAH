@@ -17,7 +17,7 @@ from models import *
 
 
 seed = 100
-device = "cpu" #"cuda" if torch.cuda.is_available() else "cpu"
+device = "cuda" if torch.cuda.is_available() else "cpu"
 
 random.seed(seed)
 np.random.seed(seed)
