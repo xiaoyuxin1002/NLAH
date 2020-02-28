@@ -14,11 +14,12 @@ python3 src/main.py -dataset acm -nl_type 2ndprox -nhid 64 -nlayer 2
 
 ## Citation
 ```
-@inproceedings{xiao2019nonlocal,
-title={Non-local Attention Learning on Large Heterogeneous Information Networks},
-author={Xiao, Yuxin and Zhang, Zecheng and Yang, Carl and Zhai, Chengxiang},
-booktitle={2019 IEEE International Conference on Big Data (Big Data)},
-year={2019},
-organization={IEEE}
+@inproceedings{xiao2019non,
+  title={Non-local Attention Learning on Large Heterogeneous Information Networks},
+  author={Xiao, Yuxin and Zhang, Zecheng and Yang, Carl and Zhai, Chengxiang},
+  booktitle={2019 IEEE International Conference on Big Data (Big Data)},
+  pages={978--987},
+  year={2019},
+  organization={IEEE}
 }
 ```
